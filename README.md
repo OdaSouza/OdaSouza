@@ -26,7 +26,7 @@ Full Stack & Android Developer
 
 <br>
 
-![Top Langs Odair Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=OdaSouza8&langs_count=8&theme=darcula)
+![Top Langs Odair Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=OdaSouza&langs_count=8&theme=darcula)
           
           
           
